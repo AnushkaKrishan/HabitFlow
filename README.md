@@ -1,6 +1,9 @@
 # HabitFlow
 A React-based habit manager web app built with React, featuring local storage, progress bars, streak tracking, and easy habit management.
 
+---
+![image](https://github.com/user-attachments/assets/f3fd1dc2-3bf2-46ef-a1f5-3897c8c44356)
+
 ## Features
 ✅ Save habits with local storage for persistence  
 ✅ Track progress with dynamic progress bars  
@@ -10,11 +13,7 @@ A React-based habit manager web app built with React, featuring local storage, p
 ✅ Smooth UI updates
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/habit-manager.git
-   cd habit-manager
-   ```
+1. Clone the repository
 2. Install dependencies:
    ```bash
    npm install
