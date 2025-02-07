@@ -5,8 +5,10 @@ A React-based habit manager web app built with React, featuring local storage, p
 ![image](https://github.com/user-attachments/assets/f3fd1dc2-3bf2-46ef-a1f5-3897c8c44356)
 
 ## Features
+✅ Colorful and engaging UI/UX Design
+✅ Motivational quotes that update with every refresh
 ✅ Save habits with local storage for persistence  
-✅ Track progress with dynamic progress bars  
+✅ Track progress with dynamic progress bars for the current day and monthly progress bar for each habit
 ✅ View current and best streaks for motivation  
 ✅ Easily add new habits  
 ✅ Delete habits when no longer needed  
